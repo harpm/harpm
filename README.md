@@ -34,7 +34,7 @@ My name is **Arsalan Hadidi** and I'm a .Net Developer <img src="https://media.g
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-<img src="https://img.shields.io/badge/dotnet.svg?style=for-the-badge&logo=dotnet&logoColor=512BD4" alt=".Net">
+<img src="https://img.shields.io/badge/dotnet" alt=".Net">
 <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" alt="ASP.NET">
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="C#">
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
