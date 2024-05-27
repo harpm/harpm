@@ -21,7 +21,7 @@
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div id="badges" align="center">
-<img src="https://media.giphy.com/media/rsUGLKwgSvSxmq1VrZ/giphy.gif" width="300px" alt=""/>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDE2OGc3MXljaWN3NTRzajFsaG1pZTkxN3p2NmF3ZTdwMHU3b2N6MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13rQ7rrTrvZXlm/giphy.webp" width="300px" alt=""/>
 </div>
 
 ---
