@@ -44,4 +44,4 @@ My name is **Arsalan Hadidi** and I'm a .Net Developer <img src="https://media.g
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=harpm&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=harpm&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=radical)
