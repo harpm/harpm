@@ -41,14 +41,3 @@ My name is **Arsalan Hadidi** and I'm a .Net Developer <img src="https://media.g
 
 ### :fire: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=harpm&theme=onedark&hide_border=true)](https://git.io/streak-stats)
-
----
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=harpm&show_icons=true&theme=dark)
-
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harpm&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
