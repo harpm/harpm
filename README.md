@@ -24,7 +24,7 @@
 
 ### :man_technologist: About Me :
 
-My name is **Arsalan Hadidi** and I'm a .Net Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Iran. 
+My name is **Arsalan Hadidi** and I'm a +4 years experienced .Net Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 - :telescope: I’m working as a Software Engineer and backend for Hamkaran System(SG).
 
