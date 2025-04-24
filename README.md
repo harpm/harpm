@@ -26,7 +26,7 @@
 
 My name is **Arsalan Hadidi** and I'm a +4 years experienced .Net Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-- :telescope: I’m working as a Software Engineer and backend for Hamkaran System(SG).
+- :telescope: I’m currently working as a Software Engineer and backend develooper for Hamkaran System(SG).
 
 ### :hammer_and_wrench: Languages and Tools :
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
